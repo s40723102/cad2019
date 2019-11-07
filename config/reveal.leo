@@ -26,6 +26,7 @@
 </v>
 <v t="leo.20180902120523.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20191107224411.1"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -48,15 +49,13 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## CMSimfly 網際內容管理test
+<t tx="leo.20180902120523.10">## CAD2019
 
 ### KMOLab
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40723102](https://s40723102.github.io/cad2019/content/index.html)
 &lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
 
 
 </t>
@@ -69,15 +68,10 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180902120523.12"># 投影片快捷鍵
+<t tx="leo.20180902120523.12"># Solvespace
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
+* Solvespace編譯(https://s40723102.github.io/cad2019/content/%E7%B7%A8%E8%AD%AF.html)
+* Solvespace操作(https://s40723102.github.io/cad2019/content/%E6%93%8D%E4%BD%9C.html)
 </t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
 @others
@@ -326,5 +320,15 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20191107224411.1">#投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
 </tnodes>
 </leo_file>
