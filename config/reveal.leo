@@ -23,9 +23,9 @@
 <v t="leo.20180902120523.8" a="E"><vh>slides div</vh>
 <v t="leo.20180902120523.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20191107225026.1"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180902120523.11" a="E"><vh>快捷鍵</vh>
-<v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 <v t="leo.20191107224411.1"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
@@ -55,7 +55,6 @@
 
 &lt;small&gt;
 Created by [40723102](https://s40723102.github.io/cad2019/content/index.html)
-&lt;/small&gt;
 
 
 </t>
@@ -67,11 +66,6 @@ Created by [40723102](https://s40723102.github.io/cad2019/content/index.html)
 
 
 						
-</t>
-<t tx="leo.20180902120523.12"># Solvespace
-
-* Solvespace編譯(https://s40723102.github.io/cad2019/content/%E7%B7%A8%E8%AD%AF.html)
-* Solvespace操作(https://s40723102.github.io/cad2019/content/%E6%93%8D%E4%BD%9C.html)
 </t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
 @others
@@ -330,5 +324,8 @@ vertical: body pane on the botton</t>
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
+<t tx="leo.20191107225026.1">###Solvespace
+[Solvespace編譯](https://s40723102.github.io/cad2019/content/%E7%B7%A8%E8%AD%AF.html)
+[Solvespace操作]https://s40723102.github.io/cad2019/content/%E6%93%8D%E4%BD%9C.html)</t>
 </tnodes>
 </leo_file>
