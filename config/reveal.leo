@@ -39,8 +39,8 @@
 <v t=".20200109222705.1"><vh>01</vh>
 <v t=".20200109222705.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t=".20200109230638.1"><vh>01</vh>
-<v t=".20200109230423.2"><vh>封面投影片內容</vh></v>
+<v t=".20200109232252.1"><vh>01</vh>
+<v t=".20200109232252.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t=".20200109230951.1"><vh>01</vh>
 <v t=".20200109230951.2"><vh>封面投影片內容</vh></v>
@@ -80,7 +80,9 @@
 <t tx=".20200109222705.2">#### 分組貢獻
 
 [CH3](https://s40723102.github.io/cad2019/content/CH3.html)
-&lt;img alt height="423"src="./../images/chrome_2020-01-09_22-51-56.png"width="900"&gt;
+&lt;small&gt;
+[NX HISTORY](https://s40723148.github.io/cad2019ag1/content/CHAPTER%201%20%E2%80%93%20INTRODUCTION.html)
+&lt;img alt height="423"src="./../images/chrome_2020-01-09_22-51-17.png"width="900"&gt;
 
 
 </t>
@@ -101,24 +103,6 @@
 
 
 </t>
-<t tx=".20200109230423.2">### 分組貢獻
-
-
-##### [W17教科書](https://s40723148.github.io/cad2019ag1/content/40723102.html)
-&lt;small&gt; [教科書連結](http://www.coppeliarobotics.com/helpFiles/en/buildingAModelTutorial.htm)
-&lt;img alt height="423"src="./../images/chrome_2020-01-09_22-51-56.png"width="900"&gt;
-
-
-</t>
-<t tx=".20200109230638.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
 <t tx=".20200109230951.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -129,6 +113,23 @@
 						
 </t>
 <t tx=".20200109230951.2">###### END
+
+
+</t>
+<t tx=".20200109232252.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx=".20200109232252.2">### 分組貢獻
+
+##### [W17教科書](https://s40723148.github.io/cad2019ag1/content/40723102.html)
+&lt;small&gt; [教科書連結](http://www.coppeliarobotics.com/helpFiles/en/buildingAModelTutorial.htm)
+&lt;img alt height="423"src="./../images/chrome_2020-01-09_22-51-56.png"width="900"&gt;
 
 
 </t>
