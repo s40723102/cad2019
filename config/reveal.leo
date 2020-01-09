@@ -110,7 +110,7 @@
 </t>
 <t tx="admin.20200109193920.2">### 分組貢獻
 
-&lt;img src="/images/chrome_2020-01-09_19-05-39.png" alt="" width="650" height="355"&gt;
+&lt;img src="/images/chrome_2020-01-09_19-05-39.png" alt="" width="1000" height="547"&gt;
 
 
 </t>
