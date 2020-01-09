@@ -21,8 +21,11 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20191107225715.1"><vh>test</vh>
+<v t="leo.20191107225715.1"><vh>Solvespace</vh>
 <v t="leo.20191107225715.3"><vh>封面投影片內容</vh></v>
+</v>
+<v t=".20200109224405.1"><vh>w14</vh>
+<v t=".20200109224405.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="admin.20200109192425.1"><vh>week15</vh>
 <v t="admin.20200109192425.2"><vh>封面投影片內容</vh></v>
@@ -33,8 +36,14 @@
 <v t="admin.20200109192500.1"><vh>week17</vh>
 <v t="admin.20200109192500.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="admin.20200109193920.1"><vh>01</vh>
-<v t="admin.20200109193920.2"><vh>封面投影片內容</vh></v>
+<v t=".20200109222705.1"><vh>01</vh>
+<v t=".20200109222705.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t=".20200109230638.1"><vh>01</vh>
+<v t=".20200109230423.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t=".20200109230951.1"><vh>01</vh>
+<v t=".20200109230951.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20191107224411.1"><vh>投影片快捷鍵</vh></v>
@@ -59,6 +68,70 @@
 </v>
 </vnodes>
 <tnodes>
+<t tx=".20200109222705.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx=".20200109222705.2">#### 分組貢獻
+
+[CH3](https://s40723102.github.io/cad2019/content/CH3.html)
+&lt;img alt height="423"src="./../images/chrome_2020-01-09_22-51-56.png"width="900"&gt;
+
+
+</t>
+<t tx=".20200109224405.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx=".20200109224405.2">#### NX practice
+
+&lt;small&gt;
+ [NX](https://s40723102.github.io/cad2019/content/CH3.html)
+&lt;iframe width="500" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/F2rS2pvvIG4"&gt;
+
+
+</t>
+<t tx=".20200109230423.2">### 分組貢獻
+
+
+##### [W17教科書](https://s40723148.github.io/cad2019ag1/content/40723102.html)
+&lt;small&gt; [教科書連結](http://www.coppeliarobotics.com/helpFiles/en/buildingAModelTutorial.htm)
+&lt;img alt height="423"src="./../images/chrome_2020-01-09_22-51-56.png"width="900"&gt;
+
+
+</t>
+<t tx=".20200109230638.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx=".20200109230951.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx=".20200109230951.2">###### END
+
+
+</t>
 <t tx="admin.20200109192425.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -68,8 +141,9 @@
 
 						
 </t>
-<t tx="admin.20200109192425.2">#### 學員個人學習成果回報考試
-
+<t tx="admin.20200109192425.2">#### w15學員個人學習成果回報考試
+&lt;small&gt;
+ [week15](https://s40723102.github.io/cad2019/content/week15.html)
 &lt;iframe width="500" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Nrn4rwxURxU"&gt;&lt;/iframe&gt;
 </t>
 <t tx="admin.20200109192458.1">&lt;section data-markdown&gt;
@@ -81,7 +155,9 @@
 
 						
 </t>
-<t tx="admin.20200109192458.2">#### 越野車零組件設計繪圖查驗
+<t tx="admin.20200109192458.2">#### w16越野車零組件設計繪圖查驗
+&lt;small&gt;
+ [week16](https://s40723102.github.io/cad2019/content/week16.html)
 
 &lt;iframe width="500" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/yPrNbR-sWNs"&gt;&lt;/iframe&gt;
 
@@ -96,29 +172,13 @@
 
 						
 </t>
-<t tx="admin.20200109192500.2">#### 越野車零組件設計繪圖考試
-
+<t tx="admin.20200109192500.2">#### w17越野車零組件設計繪圖考試
+&lt;small&gt;
+ [week17](https://s40723102.github.io/cad2019/content/week17.html)
 &lt;iframe width="500" height="314" src="//www.youtube.com/embed/CCdi7The8wc" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</t>
-<t tx="admin.20200109193920.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="admin.20200109193920.2">### 分組貢獻
-
-&lt;img alt height="400"src="./../images/chrome_2020-01-09_19-05-39.png"width="650"&gt;
-
-
-</t>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## CAD2019
-
-### KMOLab
-
+<t tx="leo.20180902120523.10">### 電腦輔助設計實習課程
+#### CAD2019個人簡報
 &lt;small&gt;
 Created by [40723102](https://s40723102.github.io/cad2019/content/index.html)
 
